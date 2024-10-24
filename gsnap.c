@@ -39,6 +39,7 @@
 #include <unistd.h>
 #include <string.h>
 #include <jpeglib.h>
+#include <sys/ioctl.h>
 #include <sys/mman.h>
 #include <sys/stat.h>
 #include <sys/types.h>
